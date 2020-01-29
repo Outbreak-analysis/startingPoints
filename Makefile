@@ -12,7 +12,7 @@ current: target
 vim_session:
 	bash -cl "vmt"
 
-Sources += start.md
+Sources += start.md README.md
 
 ######################################################################
 
