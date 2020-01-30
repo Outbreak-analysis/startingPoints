@@ -15,6 +15,26 @@ Never estimate or assume a case-fatality proportion without discussing denominat
 
 … of infection, clinical cases, and serious cases
 
-## Effects of quarantine
+## Viral evolution
 
 If the quarantine doesn't stop spread, could it affect viral evolution?
+
+Virus could evolve to be less virulent or longer incubation period under selective pressure from quarantine
+
+## Thinking clearly about generation intervals
+
+Our wheelhouse. Maybe ML's next paper
+
+## When does it matter that we distinguish dynamical and observation errors?
+
+Forecast vs. inference. We have a hypothesis, but is it right?
+
+Maybe ML's next paper
+
+## Build lunchbox on top of Daniel's framework
+
+Maybe ML's next paper
+
+## Why are we fixated on R; speed and strength
+
+JD's next paper

@@ -16,6 +16,18 @@ Sources += start.md README.md
 
 ######################################################################
 
+Ignore += local.mk
+Drop = ~/Dropbox
+-include local.mk
+
+Ignore += resources
+Makefile: resources
+resources: dir=$(Drop)/ncov_papers
+resources:
+	$(linkdirname)
+
+######################################################################
+
 ### Makestuff
 
 Sources += Makefile
